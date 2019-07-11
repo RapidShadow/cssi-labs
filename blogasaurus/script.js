@@ -7,7 +7,7 @@ let pizzaReviewB = `
     <div class="col-md-8">
       <div class="card-body">
         <h5 class="card-title">Pepe's Pizzeria</h5>
-        <p class="card-text">let me start by saying I intend on providing a thorough review of my experience with one caveat, I am not from the area so have no local comparison.
+        <p class="card-text">Let me start by saying I intend on providing a thorough review of my experience with one caveat, I am not from the area so have no local comparison.
 
 FIRST, I like this place and recommend to locals and passerbys to come support them as they are 2 months into operations...now let me verbose and break it down.....
 

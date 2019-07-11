@@ -1,0 +1,7 @@
+print("Welcome to the Big Brain Mad Lib")
+noun1 = raw_input("I DEMAND A NOUN! >:C ")
+noun2 = raw_input("I DEMAND ANOTHER NOUN! >:C ")
+adjective = raw_input("GIMME A ADJECTIVE! >:C ")
+name = raw_input("I WANT A NAME! >:C ")
+verb = raw_input("ONE VERB WITH A ING PLEASE! >:C ")
+print("Once a " + (noun1) + " wanted to died and become " + (noun2) + " but the Tyrant King said no. " + "But then the " + (adjective) + " DankMeister420 wanted to angry the great Tryant King. " + " The DankMeister420 begun to chant to transcend space-time to flex on him. " + (name) + " found a way to take down the the Tyrant King." + " By" + (verb) + ".")
